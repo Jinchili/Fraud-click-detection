@@ -1,0 +1,3 @@
+####part1:
+the first XGB is treating the input as factors which I think is appropriate
+ 
